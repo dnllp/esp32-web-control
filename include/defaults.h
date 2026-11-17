@@ -70,7 +70,7 @@
 #define IMU_NONE     0
 #define IMU_BNO055   1
 #define IMU_MPU6050  2
-#define DEF_IMU_TYPE     IMU_BNO055
+#define DEF_IMU_TYPE     IMU_MPU6050 
 #define DEF_IMU_ADDR_BNO 0x28
 #define DEF_IMU_ADDR_MPU 0x68
 #define DEF_IMU_FUSION   true
